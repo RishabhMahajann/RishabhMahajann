@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **SQL, Excel Tableau, Power BI**
+- 💬 Ask me about **SQL, R Programming Language, Excel, Tableau, Power BI**
 
 - 📫 How to reach me **rishabhmahajan0001@gmail.com**
 
