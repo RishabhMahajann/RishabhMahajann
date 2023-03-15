@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@rishabhmahajan_" target="blank"><img src="https://img.shields.io/twitter/follow/@rishabhmahajan_?logo=twitter&style=for-the-badge" alt="@rishabhmahajan_" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **SQL, R Programming Language, Excel, Tableau, Power BI**
+- 💬 Ask me about **SQL, PowerBi, R Programming Language, Excel, Tableau**
 
 - 📫 How to reach me **rishabhmahajan0001@gmail.com**
 
